@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/aryanborse13/Aryan/tree/master/0223-rectangle-area) |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 ## String
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanborse13/Aryan/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/aryanborse13/Aryan/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
