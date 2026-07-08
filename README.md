@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/aryanborse13/Aryan/tree/master/0223-rectangle-area) |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryanborse13/Aryan/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryanborse13/Aryan/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryanborse13/Aryan/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryanborse13/Aryan/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
