@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanborse13/Aryan/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanborse13/Aryan/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryanborse13/Aryan/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryanborse13/Aryan/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
