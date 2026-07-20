@@ -15,10 +15,9 @@ public:
     }
     TreeNode* sortedListToBST(ListNode* head) {
         vector<int> nums;
-        ListNode* curr = head;
-        while(curr != NULL){
-            nums.push_back(curr->val);
-            curr = curr->next;
+        while(head){
+            nums.push_back(head->val);
+            head = head->next;
         }
         return buildBst(nums,0,nums.size()-1);
     }
