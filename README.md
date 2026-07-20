@@ -134,4 +134,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanborse13/Aryan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
