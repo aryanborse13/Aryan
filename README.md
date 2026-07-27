@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
+| [1207-unique-number-of-occurrences](https://github.com/aryanborse13/Aryan/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanborse13/Aryan/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/aryanborse13/Aryan/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanborse13/Aryan/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanborse13/Aryan/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanborse13/Aryan/tree/master/3532-path-existence-queries-in-a-graph-i) |
