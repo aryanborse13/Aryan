@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanborse13/Aryan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanborse13/Aryan/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanborse13/Aryan/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanborse13/Aryan/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanborse13/Aryan/tree/master/3532-path-existence-queries-in-a-graph-i) |
