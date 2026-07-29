@@ -1,7 +1,7 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        // int n = nums.size();
+        int n = nums.size();
         vector<int> pre(n,0);
         pre[0] = nums[0];
         for(int i=1; i<n;i++){
@@ -14,9 +14,9 @@ public:
             if(pre[i] == k){
                 count++;
             }
-            // int rem = pre[i]-k;
-            // if(m.find(rem) != m.end()) count += mp[rem];
-            // m[pre]++;
+            int rem = pre[i]-k;
+            if(m.find(rem) != m.end()) count += m[rem];
+            m[pre[i]]++;
         }
         return count;
     }
