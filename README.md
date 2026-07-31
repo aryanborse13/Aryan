@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanborse13/Aryan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanborse13/Aryan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanborse13/Aryan/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanborse13/Aryan/tree/master/1207-unique-number-of-occurrences) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanborse13/Aryan/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanborse13/Aryan/tree/master/1207-unique-number-of-occurrences) |
