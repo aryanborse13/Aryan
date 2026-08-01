@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/aryanborse13/Aryan/tree/master/0223-rectangle-area) |
+| [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanborse13/Aryan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
+| [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanborse13/Aryan/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanborse13/Aryan/tree/master/1207-unique-number-of-occurrences) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryanborse13/Aryan/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryanborse13/Aryan/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aryanborse13/Aryan/tree/master/3620-network-recovery-pathways) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanborse13/Aryan/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting Sort
 |  |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanborse13/Aryan/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
