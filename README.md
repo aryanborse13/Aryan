@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanborse13/Aryan/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/aryanborse13/Aryan/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanborse13/Aryan/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/aryanborse13/Aryan/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanborse13/Aryan/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting Sort
