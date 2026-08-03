@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryanborse13/Aryan/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aryanborse13/Aryan/tree/master/1406-stone-game-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanborse13/Aryan/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanborse13/Aryan/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aryanborse13/Aryan/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanborse13/Aryan/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
+| [1406-stone-game-iii](https://github.com/aryanborse13/Aryan/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanborse13/Aryan/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aryanborse13/Aryan/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aryanborse13/Aryan/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryanborse13/Aryan/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryanborse13/Aryan/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aryanborse13/Aryan/tree/master/3620-network-recovery-pathways) |
@@ -270,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aryanborse13/Aryan/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aryanborse13/Aryan/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
