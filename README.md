@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanborse13/Aryan/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanborse13/Aryan/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanborse13/Aryan/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanborse13/Aryan/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanborse13/Aryan/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanborse13/Aryan/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryanborse13/Aryan/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryanborse13/Aryan/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanborse13/Aryan/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanborse13/Aryan/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanborse13/Aryan/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanborse13/Aryan/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanborse13/Aryan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanborse13/Aryan/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aryanborse13/Aryan/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanborse13/Aryan/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
