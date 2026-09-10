@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanborse13/Aryan/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryanborse13/Aryan/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanborse13/Aryan/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryanborse13/Aryan/tree/master/2685-count-the-number-of-complete-components) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanborse13/Aryan/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryanborse13/Aryan/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanborse13/Aryan/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanborse13/Aryan/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryanborse13/Aryan/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Enumeration
 |  |
