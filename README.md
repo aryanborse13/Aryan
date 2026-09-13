@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanborse13/Aryan/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/aryanborse13/Aryan/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/aryanborse13/Aryan/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryanborse13/Aryan/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanborse13/Aryan/tree/master/1207-unique-number-of-occurrences) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/aryanborse13/Aryan/tree/master/0835-image-overlap) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanborse13/Aryan/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanborse13/Aryan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Shortest Path
