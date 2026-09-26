@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanborse13/Aryan/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aryanborse13/Aryan/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanborse13/Aryan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanborse13/Aryan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aryanborse13/Aryan/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryanborse13/Aryan/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanborse13/Aryan/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanborse13/Aryan/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1563-stone-game-v](https://github.com/aryanborse13/Aryan/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanborse13/Aryan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanborse13/Aryan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1872-stone-game-viii](https://github.com/aryanborse13/Aryan/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanborse13/Aryan/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanborse13/Aryan/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanborse13/Aryan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanborse13/Aryan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanborse13/Aryan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aryanborse13/Aryan/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanborse13/Aryan/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryanborse13/Aryan/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
