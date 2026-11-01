@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanborse13/Aryan/tree/master/0002-add-two-numbers) |
 | [0223-rectangle-area](https://github.com/aryanborse13/Aryan/tree/master/0223-rectangle-area) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanborse13/Aryan/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aryanborse13/Aryan/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanborse13/Aryan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanborse13/Aryan/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanborse13/Aryan/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
