@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aryanborse13/Aryan/tree/master/0002-add-two-numbers) |
 | [0223-rectangle-area](https://github.com/aryanborse13/Aryan/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanborse13/Aryan/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryanborse13/Aryan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/aryanborse13/Aryan/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanborse13/Aryan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanborse13/Aryan/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryanborse13/Aryan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/aryanborse13/Aryan/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanborse13/Aryan/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanborse13/Aryan/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aryanborse13/Aryan/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aryanborse13/Aryan/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryanborse13/Aryan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanborse13/Aryan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aryanborse13/Aryan/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aryanborse13/Aryan/tree/master/1288-remove-covered-intervals) |
